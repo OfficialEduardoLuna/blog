@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Blog"
 title_separator          : "-"
-subtitle                 : "My personal website."# site tagline that appears below site title in masthead
+subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Eduardo Luna"
-description              : "Learning Jekyll."
+description              : "My Personal Website."
 url                      : "https://officialeduardoluna.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/blog"# the subpath of your site, e.g. "/blog"
 repository               : "OfficialEduardoLuna/blog"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,7 +96,7 @@ author:
   name             : "Eduardo Luna"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Studying Cyber Security."
-  location         : "Texas State Technical College, Fort Bend, Texas"
+  location         : "TSTC-FB, Houston Area"
   email            :
   links:
     - label: "Email"
