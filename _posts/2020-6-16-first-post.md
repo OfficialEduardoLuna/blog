@@ -1,5 +1,5 @@
 ---
-single: post
+layout: single
 title:  "Welcome to my blog!"
 ---
 
