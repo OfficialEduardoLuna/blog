@@ -7,7 +7,7 @@ title:  "Welcome to my blog!"
 
 **Hello world**, this is my first Jekyll blog post.
 
-This theme is based on the [Minimal Mistakes Jekyll Theme.](https://mmistakes.github.io/minimal-mistakes/).
+This theme is based on the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
 
 A blog in 2020? More likely than you think. I chose Github Pages because I wanted to have more control over something like tumblr, and medium, but I do not want to mainain a server right now.
